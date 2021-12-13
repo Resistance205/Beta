@@ -1,7 +1,9 @@
 # Beta
 Final beta
 
-WebGL refused to load the file after numerous attempts, taking over 5 hours.
+Left and right arrow keys control direction//
+Space is to jump//
+F to fire a projectile//
 
-Ryan - Player and enemy scripting, projectiles
-Ross - Level design, sound implementation, physics
+Ryan - Player and enemy scripting, projectiles//
+Ross - Level design, sound implementation, physics//
